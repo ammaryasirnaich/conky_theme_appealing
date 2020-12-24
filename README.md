@@ -8,7 +8,7 @@ Format: ![GPU usage]
 ![CPU Usage](/Appealing/cpufile.png)
 [CPU Usage]
 
-![Nvidia GPU usage](/Appealing/GPU.png)
+![Nvidia GPU usage](/Appealing/Nvidia_panal.png)
 Format: ![GPU usage]
 
 ![Memory Usage](/Appealing/memory.png)
